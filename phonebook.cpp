@@ -147,10 +147,10 @@ int main()
     printf("*********************************\n");
     printf("*  -------                      * \n");
     printf("*     |                         *  By,\n");
-    printf("*     |                         *  Shagoto(295)\n");
+    printf("*     |                         *  Shagoto sarkar\n");
     printf("*     |");
-    printf("he minimalist Phonebook  *  Samonty(405)\n");
-    printf("*                               *  shafin(184)\n");
+    printf("he minimalist Phonebook  *  \n");
+    printf("*                               *  \n");
     printf("*********************************\n");
    // printf("A project by shafin(184), \n  Shagoto(295) & Samonty(405)\n");
     int op,ch;
